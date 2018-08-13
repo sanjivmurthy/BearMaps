@@ -4,9 +4,11 @@ This project designs and implements the backend of a web mapping application of 
 
 The project spec is at https://sp18.datastructur.es/materials/proj/proj3/proj3
 
-HEAD
-![Home Page](CAPTURE.png)
+Home Page
+![Home Page](Capture.png)
 
+Finding shortest path between two locations
 ![Finding shortest path between two locations](findShortestPath.png)
 
+Query Autocomplete
 ![Query Autocomplete](queryAutocomplete.png)
