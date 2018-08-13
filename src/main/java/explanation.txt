@@ -1,0 +1,17 @@
+was too lazy to fix style errors.
+
+Introduction
+This project was originally created by former TA Alan Yao (now at AirBNB).
+It is a web mapping application inspired by Alan’s time on the Google Maps
+team and the OpenStreetMap project, from which the tile images and map feature
+data was downloaded. You are working with real-world mapping data here that is
+freely available - after you’ve finished this project, you can even extend your c
+ode to support a wider range of features. You will be writing the back end - the
+web server that powers the API that the front end makes requests to. The project
+3 video playlist starts with an introductory video that should help you get started.
+
+This project is a solo project. You should not work with a partner. One of our biggest
+goals for 61B is to develop your independence as a programmer, and this project is a
+great milestone for you to complete on your own before you go on to bigger and better things.
+
+
